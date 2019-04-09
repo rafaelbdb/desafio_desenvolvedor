@@ -8,8 +8,8 @@ Para se candidatar:
 
 ## O Desafio
 Para avaliar o seu conhecimento temos um desafio para você.
-Você deverá criar um crud (acrónimo de Create, Read, Update e Delete) de cadastro de usuários.
-O mesmo deve ser feito na linguagem que vocÊ preferir, o mesmo deve conter os campos abaixo:
+Você deverá criar um CRUD de cadastro de usuários.
+O mesmo deve ser feito na linguagem que você preferir, contendo os campos abaixo:
 
 -nome
 -idade
@@ -27,7 +27,7 @@ Segue abaixo algumas imagens como sugestão.
 
 ![Cadastro Usuario](img/TelaCadastro.png)
 
-Você tem liberdade de desenvolve-lo como bem entender.
+Você tem liberdade de desenvolvê-lo como bem entender.
 
 Os dados podem ser salvos em um banco de dados, um arquivo, localstorage.
 
